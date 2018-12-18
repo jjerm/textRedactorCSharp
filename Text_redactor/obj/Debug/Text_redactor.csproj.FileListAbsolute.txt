@@ -1,0 +1,21 @@
+c:\users\jjerm\Desktop\Text_redactor\Text_redactor\bin\Debug\Text_redactor.exe.config
+c:\users\jjerm\Desktop\Text_redactor\Text_redactor\bin\Debug\Text_redactor.exe
+c:\users\jjerm\Desktop\Text_redactor\Text_redactor\bin\Debug\Text_redactor.pdb
+c:\users\jjerm\Desktop\Text_redactor\Text_redactor\obj\Debug\Text_redactor.ChildForm.resources
+c:\users\jjerm\Desktop\Text_redactor\Text_redactor\obj\Debug\Text_redactor.Form1.resources
+c:\users\jjerm\Desktop\Text_redactor\Text_redactor\obj\Debug\Text_redactor.Properties.Resources.resources
+c:\users\jjerm\Desktop\Text_redactor\Text_redactor\obj\Debug\Text_redactor.csproj.GenerateResource.Cache
+c:\users\jjerm\Desktop\Text_redactor\Text_redactor\obj\Debug\Text_redactor.csproj.CoreCompileInputs.cache
+c:\users\jjerm\Desktop\Text_redactor\Text_redactor\obj\Debug\Text_redactor.exe
+c:\users\jjerm\Desktop\Text_redactor\Text_redactor\obj\Debug\Text_redactor.pdb
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\bin\Debug\Text_redactor.exe.config
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\bin\Debug\Text_redactor.exe
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\bin\Debug\Text_redactor.pdb
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\obj\Debug\Text_redactor.ChildForm.resources
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\obj\Debug\Text_redactor.Form1.resources
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\obj\Debug\Text_redactor.Properties.Resources.resources
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\obj\Debug\Text_redactor.csproj.GenerateResource.Cache
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\obj\Debug\Text_redactor.csproj.CoreCompileInputs.cache
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\obj\Debug\Text_redactor.exe
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\obj\Debug\Text_redactor.pdb
+C:\Users\jjerm\Desktop\Text_redactor ++\Text_redactor\obj\Debug\Text_redactor.csprojResolveAssemblyReference.cache
